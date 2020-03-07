@@ -1,5 +1,5 @@
 #funções
 def soma (n1, n2, n3):
     return n1 + n2 + n3
-
-soma (10, 14, 22)
+soma (10,20,30)
+print (soma)   
