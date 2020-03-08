@@ -6,3 +6,5 @@ print (soma)'''
 
 def func1(param1):
     pass
+
+print ("teste")
