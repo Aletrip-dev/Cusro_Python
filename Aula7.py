@@ -4,4 +4,8 @@ a = random.randint(1,30)
 
 print ("TESTE")
 
-print (a)
+print (a) #teste
+#teste 2
+#teste 3
+
+
