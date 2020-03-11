@@ -1,6 +1,6 @@
 import sqlite3
 
-conn = sqlite3.connect("teste.db") #cria tabela com o nome passado
+conn = sqlite3.connect("teste.db") #cria arquivo com o nome passado
 cursor = conn.cursor()
 
 
